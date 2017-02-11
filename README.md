@@ -1,7 +1,11 @@
 # attract-mode
 
 1. Installation
-  * image : http://smartretro.co.uk/forums/viewtopic.php?f=3&t=8277
+  * image "pure" : http://smartretro.co.uk/forums/viewtopic.php?f=3&t=8277
+  * image "Motion Blue" :
+    * YouTube link : https://www.youtube.com/watch?v=3pzxL7dKqUA
+    * Download link : https://mega.nz/#!ABVEQI5J!X0YsPYPqm62_C9P905TlAyLh0RYGZMTPoDhzE4lqoYg
+    * Decryption key if it’s asked for: !X0YsPYPqm62_C9P905TlAyLh0RYGZMTPoDhzE4lqoYg
   * Windows : SDFormatter + Win32DiskImager
   * upgrade everything (very long ~ 2h)
 
