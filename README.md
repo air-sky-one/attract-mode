@@ -27,6 +27,9 @@
     * sudo wget http://files.mausberrycircuits.com/setup.sh
     * sudo bash setup.sh
     * sudo reboot
+    
+4. External Storage
+  * https://github.com/RetroPie/RetroPie-Setup/wiki/Running-ROMs-from-a-USB-drive
 
 3. Scrapper
 
