@@ -33,8 +33,10 @@
 4. External Storage
   * https://github.com/RetroPie/RetroPie-Setup/wiki/Running-ROMs-from-a-USB-drive
 
-3. Scrapper
+5. Scrapper
 
+6. In Game : 
+* Rewind : https://github.com/libretro/Lakka/wiki/Rewind
 
 0. Deprecated
   * image "pure" : http://smartretro.co.uk/forums/viewtopic.php?f=3&t=8277
