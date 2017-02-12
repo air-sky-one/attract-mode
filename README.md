@@ -14,6 +14,8 @@
   * pair with Shanwan
   * push buttons while pairing
   * config controller through ES
+  * */!\ Controller mapping :* https://github.com/RetroPie/RetroPie-Setup/wiki/RetroArch-Configuration#default-joypad-hotkeys
+  * */!\ Change "Select" by "Home" :* https://github.com/RetroPie/RetroPie-Setup/wiki/RetroArch-Configuration#determining-button-values
 
 3. Mausberry Power Switch
   * Links :
