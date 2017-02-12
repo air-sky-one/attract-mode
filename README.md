@@ -15,6 +15,19 @@
   * push buttons while pairing
   * config controller through ES
 
+3. Mausberry Power Switch
+  * Links :
+    * http://mausberry-circuits.myshopify.com/pages/setup
+    * https://github.com/recalbox/recalbox-os/wiki/Mausberry-Switch-Power-On-off-%28EN%29
+  * Steps : 
+    * ssh connection : ssh pi@retropie (pwd: raspberry)
+    * cd Retropie-Setup/tools
+    * mkdir mausberry
+    * cd mausberry
+    * sudo wget http://files.mausberrycircuits.com/setup.sh
+    * sudo bash setup.sh
+    * sudo reboot
+
 3. Scrapper
 
 
