@@ -36,15 +36,15 @@
 5. Scrapper
 
 6. In Game : 
-* Rewind : https://github.com/libretro/Lakka/wiki/Rewind
-* Save state : https://retropie.org.uk/forum/topic/241/strategy-for-save-states-and-saves/3
+  * Rewind : https://github.com/libretro/Lakka/wiki/Rewind
+  * Save state : https://retropie.org.uk/forum/topic/241/strategy-for-save-states-and-saves/3
 
 7. Video Intro
-* Futur : https://www.youtube.com/watch?v=I9WQVoVSWwM&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=12
-* Loading : https://www.youtube.com/watch?v=F-8islalTN8&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=13
-* Qasar PS1 : https://www.youtube.com/watch?v=zPgISBwRhSo&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=28
-* Retro gaming : https://www.youtube.com/watch?v=Q8tFidG43-4&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=35
-* Glitch : https://www.youtube.com/watch?v=sgHz35ikAkY&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=49
+  * Futur : https://www.youtube.com/watch?v=I9WQVoVSWwM&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=12
+  * Loading : https://www.youtube.com/watch?v=F-8islalTN8&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=13
+  * Qasar PS1 : https://www.youtube.com/watch?v=zPgISBwRhSo&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=28
+  * Retro gaming : https://www.youtube.com/watch?v=Q8tFidG43-4&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=35
+  * Glitch : https://www.youtube.com/watch?v=sgHz35ikAkY&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=49
 
 0. Deprecated
   * image "pure" : http://smartretro.co.uk/forums/viewtopic.php?f=3&t=8277
