@@ -40,6 +40,7 @@
   * Save state : https://retropie.org.uk/forum/topic/241/strategy-for-save-states-and-saves/3
 
 7. Video Intro
+  * Full custom templates !!!! : https://www.velosofy.com/template/intro-template-090
   * Futur : https://www.youtube.com/watch?v=I9WQVoVSWwM&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=12
   * Loading : https://www.youtube.com/watch?v=F-8islalTN8&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=13
   * Qasar PS1 : https://www.youtube.com/watch?v=zPgISBwRhSo&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=28
