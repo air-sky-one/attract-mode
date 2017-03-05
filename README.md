@@ -14,6 +14,48 @@
   * pair with Shanwan
   * push buttons while pairing
   * config controller through ES
+  * from Retropie Setup entry menu, launch Retroarch */!\ WARNING /!\ Activate Rewind + Don't ever save a retroacrh conf from a game. If so, général conf will be omittied !!!*
+    * driver -> menu = xmb
+    * menu config wallpaper (TODO), color = dark, animated menu = false
+    * input config (PS3 Mapping)
+      * up = 4 
+      * down = 6
+      * left = 7
+      * right = 5
+      * analog left up = up
+      * analog left down = down
+      * analog left left = left
+      * analog left right = right
+      * L3 = 1
+      * L1 = 10
+      * L2 = 8
+      * select = 0
+      * start = 3
+      * home = 16
+      * analog right up = Uneg
+      * analog right down =Upos
+      * analog right left = Zpos
+      * R3 = 2
+      * R1 = 11
+      * R2 = 9
+      * square = 15
+      * cross = 14
+      * circle = 13
+      * triangle = 12
+    * Hotkeys mapping
+      * rewind = 7 = left
+      * fast forward hold = 5 = right
+      * enable menu button = 16 = home
+      * quit = 3 = start
+      * reset = 14 = cross
+      * menu = 12 (dont' succed to change it) = triangle
+      * savestate = 15 = square
+      * loadstate = 13 = circle
+      * savestate slot up = 4 = up
+      * loadstate slot down = down
+      * previous disk = 10 = L1
+      * next disk = 11 = R1
+    * Configuration Save on exit = On 
   * */!\ Controller mapping :* https://github.com/RetroPie/RetroPie-Setup/wiki/RetroArch-Configuration#default-joypad-hotkeys
   * */!\ Change "Select" by "Home" :* https://github.com/RetroPie/RetroPie-Setup/wiki/RetroArch-Configuration#determining-button-values
 
