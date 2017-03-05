@@ -83,6 +83,10 @@
   * go on folder above, create a scanline.glsl from crt-pi.glsl and replace the name into the file
   * go to retroarch.cfg and change video-shader to scaneline.glsl
 
+6. N64 Audio volume
+  * https://github.com/recalbox/recalbox-os/issues/596
+  * explanation here : https://retropie.org.uk/forum/topic/1756/n64-mupenplus-sound-volume/3
+
 6. In Game : 
   * Rewind : https://github.com/libretro/Lakka/wiki/Rewind
   * Save state : https://retropie.org.uk/forum/topic/241/strategy-for-save-states-and-saves/3
