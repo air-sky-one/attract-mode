@@ -83,7 +83,7 @@
   * go on folder above, create a scanline.glsl from crt-pi.glsl and replace the name into the file
   * go to retroarch.cfg and change video-shader to scaneline.glsl
 
-6. N64 Audio volume
+7. N64 Audio volume
   * mupen64plus.cfg is erased each time you start a game so first :
   * /opt/retropie/emulators/mupen64plus/bin $ sudo nano mupen64plus.sh 
     * In function SetAudio :
@@ -100,7 +100,7 @@
   * explanation here : https://retropie.org.uk/forum/topic/1756/n64-mupenplus-sound-volume/3
   * https://www.reddit.com/r/RetroPie/comments/47ywux/sound_issues_with_some_emulators/?st=izwtf4x0&sh=e6c0ca12
 
-6. N64 Hotkeys 
+8. N64 Hotkeys 
   * mupen64plus.cfg is erased each time you start a game so first :
   * /opt/retropie/emulators/mupen64plus/bin $ sudo nano mupen64plus.sh 
     * Comments the 2 lines above : 
@@ -113,11 +113,17 @@
     * Joy Mapping Stop = "J0B16/B3"
     * Joy Mapping Save State = "J0B16/B11"
     * Joy Mapping Load State = "J0B16/B10"
-6. In Game : 
+9. In Game : 
+  * from Retropie Setup entry menu, launch Retroarch */!\ WARNING /!\ Activate Rewind + Don't ever save a retroacrh conf from a game. If so, général conf will be omittied !!!*
   * Rewind : https://github.com/libretro/Lakka/wiki/Rewind
   * Save state : https://retropie.org.uk/forum/topic/241/strategy-for-save-states-and-saves/3
 
-7. Video Intro
+10. Chante TimeZone
+  * https://www.raspberrypi.org/forums/viewtopic.php?t=4977&f=5
+  * Copy tzselect return in bach
+  * Past it in /home/pi/.profile at the end of the file to make it permanent
+
+11. Video Intro
   * Full custom templates !!!! : https://www.velosofy.com/template/intro-template-090
   * Futur : https://www.youtube.com/watch?v=I9WQVoVSWwM&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=12
   * Loading : https://www.youtube.com/watch?v=F-8islalTN8&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=13
