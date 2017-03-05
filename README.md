@@ -123,7 +123,21 @@
   * Copy tzselect return in bach
   * Past it in /home/pi/.profile at the end of the file to make it permanent
 
-11. Video Intro
+11. Game Station Theme V2 HD
+  * Download theme : 
+    * http://forum.attractmode.org/index.php?topic=505.0
+    * http://forum.attractmode.org/index.php?action=dlattach;topic=505.0;attach=850
+  * Unzip it there : /home/pi/.attract/layouts
+  * Video wheel is too slow on pi 3 with a large amounbt of games in a system (has also side effects with PS3 controller)
+    * go to : /home/pi/.attract/layouts/Game Station HD/layout.nut
+    * change :
+      * m_obj.height = wheel_h[slot] + p * ( wheel_h[slot+1] - wheel_h[slot] );
+      * to
+      * m_obj.height = ( wheel_h[slot] + p * ( wheel_h[slot+1] - wheel_h[slot] ) ) / 2;
+    * It will divide the height of the element in the will, but won't increase the number of visible element in the wheel
+    * Config the Layout to display wheel image and not span in the wheel
+
+12. Video Intro
   * Full custom templates !!!! : https://www.velosofy.com/template/intro-template-090
   * Futur : https://www.youtube.com/watch?v=I9WQVoVSWwM&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=12
   * Loading : https://www.youtube.com/watch?v=F-8islalTN8&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=13
