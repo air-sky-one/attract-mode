@@ -77,6 +77,12 @@
 
 5. Scrapper
 
+6. Shader
+  * Download that https://github.com/pinkeen/libretro-common-shaders-glsl/blob/master/scanline.glsl into :
+  * something like that (i just remembre that yo uhave to access from smb instead of ssh for convinience) smb:\\Retropie\configs\Retroarch\shader\shader
+  * go on folder above, create a scanline.glsl from crt-pi.glsl and replace the name into the file
+  * go to retroarch.cfg and change video-shader to scaneline.glsl
+
 6. In Game : 
   * Rewind : https://github.com/libretro/Lakka/wiki/Rewind
   * Save state : https://retropie.org.uk/forum/topic/241/strategy-for-save-states-and-saves/3
