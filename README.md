@@ -84,9 +84,35 @@
   * go to retroarch.cfg and change video-shader to scaneline.glsl
 
 6. N64 Audio volume
+  * mupen64plus.cfg is erased each time you start a game so first :
+  * /opt/retropie/emulators/mupen64plus/bin $ sudo nano mupen64plus.sh 
+    * In function SetAudio :
+      * change
+      * AUDIO_PLUGIN="mupen64plus-audio-omx"
+      * by 
+      * AUDIO_PLUGIN="mupen64plus-audio-sdl"
+  * in /opt/retropie/configs/n64/mupen64plus.cfg
+    * Change
+    * AudioPlugin = "mupen64plus-audio-omx.so"
+    * By 
+    * AudioPlugin = "mupen64plus-audio-sdl.so"
   * https://github.com/recalbox/recalbox-os/issues/596
   * explanation here : https://retropie.org.uk/forum/topic/1756/n64-mupenplus-sound-volume/3
+  * https://www.reddit.com/r/RetroPie/comments/47ywux/sound_issues_with_some_emulators/?st=izwtf4x0&sh=e6c0ca12
 
+6. N64 Hotkeys 
+  * mupen64plus.cfg is erased each time you start a game so first :
+  * /opt/retropie/emulators/mupen64plus/bin $ sudo nano mupen64plus.sh 
+    * Comments the 2 lines above : 
+      * iniConfig “=” “\” $configdir/n64/mupen64plus.cfg”
+      * iniSet “${hotkeys_m64p[$i]} “$bind”
+      * These lines are just after : # write hotkey to mupen64plus.cfg
+      * DOC : http://blog.petrockblock.com/forums/search/?bbp_search=hotkey
+  * in /opt/retropie/configs/n64/mupen64plus.cfg
+    * Put 
+    * Joy Mapping Stop = "J0B16/B3"
+    * Joy Mapping Save State = "J0B16/B11"
+    * Joy Mapping Load State = "J0B16/B10"
 6. In Game : 
   * Rewind : https://github.com/libretro/Lakka/wiki/Rewind
   * Save state : https://retropie.org.uk/forum/topic/241/strategy-for-save-states-and-saves/3
