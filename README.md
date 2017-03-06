@@ -60,6 +60,11 @@
   * */!\ Controller mapping :* https://github.com/RetroPie/RetroPie-Setup/wiki/RetroArch-Configuration#default-joypad-hotkeys
   * */!\ Change "Select" by "Home" :* https://github.com/RetroPie/RetroPie-Setup/wiki/RetroArch-Configuration#determining-button-values
 
+3. Don't display RunCommand tool when launching a game
+  * Go To RunCommand utility
+  * Disable "Launch Menu"
+  * https://github.com/retropie/retropie-setup/wiki/runcommand#configuring-runcommand
+
 3. Mausberry Power Switch
   * Links :
     * http://mausberry-circuits.myshopify.com/pages/setup
