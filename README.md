@@ -86,8 +86,8 @@
 6. Shader
   * Download that https://github.com/pinkeen/libretro-common-shaders-glsl/blob/master/scanline.glsl into :
   * smb://retropie/configs/all/retroarch/shaders/shaders(i just remembre that you have to access from smb instead of ssh for convinience)
-  * go on folder above, create a scanline.glsl from crt-pi.glsl and replace the name into the file
-  * go to retroarch.cfg and change video-shader to scaneline.glsl
+  * go on folder above (-> smb://retropie/configs/all/retroarch/shaders/), create a scanline.glslp from crt-pi.glslp and replace the name into the file
+  * go to smb://retropie/configs/all/retroarch.cfg and change video_shader to scaneline.glsl
 
 7. N64 Audio volume
   * mupen64plus.cfg is erased each time you start a game so first :
