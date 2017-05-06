@@ -55,6 +55,8 @@
       * loadstate slot down = down
       * previous disk = 10 = L1
       * next disk = 11 = R1
+    * Use analog stick as a dpad /!\ Important /!\
+      * https://github.com/RetroPie/RetroPie-Setup/issues/1060
     * Configuration Save on exit = On 
     * /!\ Conf per Emulator  /!\ Warning !!! In case of there is a conf set for a specific emulator and you want to keep general config, go to /opt/retropie/configs select your emulator and modifiy retroarch.cfg to match the one in an other system which has general conf.
   * */!\ Controller mapping :* https://github.com/RetroPie/RetroPie-Setup/wiki/RetroArch-Configuration#default-joypad-hotkeys
