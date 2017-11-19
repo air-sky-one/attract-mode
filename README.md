@@ -131,7 +131,9 @@
   /opt/retropie/configs/all/autoconf.cfg 
   * Change to this : mupen64plus_hotkeys = "0"
 -> https://webcache.googleusercontent.com/search?q=cache:1x5pAIpOrdwJ:https://retropie.org.uk/forum/topic/4479/n64-mupen64plus-cfg-changes-keep-getting-overwritten+&cd=2&hl=en&ct=clnk&gl=fr
-    
+ 
+8. N64 Video
+In run command (ESC before game start), choose default emulator : mupen64plus-gles2n64
     
 9. In Game : 
   * from Retropie Setup entry menu, launch Retroarch */!\ WARNING /!\ Activate Rewind + Don't ever save a retroacrh conf from a game. If so, général conf will be omittied !!!*
