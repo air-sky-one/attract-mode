@@ -107,6 +107,11 @@
   * https://github.com/recalbox/recalbox-os/issues/596
   * explanation here : https://retropie.org.uk/forum/topic/1756/n64-mupenplus-sound-volume/3
   * https://www.reddit.com/r/RetroPie/comments/47ywux/sound_issues_with_some_emulators/?st=izwtf4x0&sh=e6c0ca12
+  
+  /!\ IMPORTANT SINCE 4.X
+  /opt/retropie/configs/all/autoconf.cfg 
+  * Change to this : mupen64plus_audio = "0"
+-> https://webcache.googleusercontent.com/search?q=cache:1x5pAIpOrdwJ:https://retropie.org.uk/forum/topic/4479/n64-mupen64plus-cfg-changes-keep-getting-overwritten+&cd=2&hl=en&ct=clnk&gl=fr
 
 8. N64 Hotkeys 
   * mupen64plus.cfg is erased each time you start a game so first :
@@ -121,6 +126,13 @@
     * Joy Mapping Stop = "J0B16/B3"
     * Joy Mapping Save State = "J0B16/B11"
     * Joy Mapping Load State = "J0B16/B10"
+      
+  /!\ IMPORTANT SINCE 4.X
+  /opt/retropie/configs/all/autoconf.cfg 
+  * Change to this : mupen64plus_hotkeys = "0"
+-> https://webcache.googleusercontent.com/search?q=cache:1x5pAIpOrdwJ:https://retropie.org.uk/forum/topic/4479/n64-mupen64plus-cfg-changes-keep-getting-overwritten+&cd=2&hl=en&ct=clnk&gl=fr
+    
+    
 9. In Game : 
   * from Retropie Setup entry menu, launch Retroarch */!\ WARNING /!\ Activate Rewind + Don't ever save a retroacrh conf from a game. If so, général conf will be omittied !!!*
   * Rewind : https://github.com/libretro/Lakka/wiki/Rewind
