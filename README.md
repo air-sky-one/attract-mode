@@ -166,6 +166,10 @@ In run command (ESC before game start), choose default emulator : mupen64plus-gl
   * Qasar PS1 : https://www.youtube.com/watch?v=zPgISBwRhSo&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=28
   * Retro gaming : https://www.youtube.com/watch?v=Q8tFidG43-4&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=35
   * Glitch : https://www.youtube.com/watch?v=sgHz35ikAkY&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=49
+  * SEGA : https://www.youtube.com/watch?v=mwRfr0a25QY&index=21&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla
+  * NeoGeo : https://www.youtube.com/watch?v=Umhvuqfqt6Q&list=PL_ik_t59tpUxdncwMtsFNjIxfiMipQLla&index=22
+  * Gameboy : https://www.youtube.com/watch?v=CWc-g87YSBE
+  * Sega Naomi : https://www.youtube.com/watch?v=QPDZZjwyPJE
 
 0. Deprecated
   * image "pure" : http://smartretro.co.uk/forums/viewtopic.php?f=3&t=8277
